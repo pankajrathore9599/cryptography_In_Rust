@@ -1,1 +1,2 @@
 # cryptography_In_Rust
+This example demonstrates a simple way to encrypt and decrypt data using ECC with the secp256k1 curve. It should not be considered secure for real-world applications, as it lacks proper key management, error handling, and authenticated encryption. For a more comprehensive and secure implementation, consider using a well-established cryptography library like rustls or ring.
